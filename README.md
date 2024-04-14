@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charesredhat
-- 👀 I’m interested in Drones, Adriano, 3d printing and Genomics
+- 👀 I’m interested in Drones, Adriano, Robotics, 3d printing and Genomics
 - 🌱 I’m currently learning wdl, deeper Ml concepts
 - 💞️ I’m looking to collaborate on 
       Any Open source 
